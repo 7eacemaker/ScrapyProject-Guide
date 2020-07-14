@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526982ee-af7b-4687-8a01-fb654feba804" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d8kQqkY5PzAoRxRTdbJHNXDgqg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tawa05\PycharmProjects\DailyNewsSpyder\DailyNewsSpyder\spiders" />
+      <recent name="C:\Users\tawa05\PycharmProjects\DailyNewsSpyder\DailyNewsSpyder" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526982ee-af7b-4687-8a01-fb654feba804" name="Default Changelist" comment="" />
+      <created>1591814095018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591814095018</updated>
+      <workItem from="1591814096653" duration="483000" />
+      <workItem from="1591822530345" duration="10429000" />
+      <workItem from="1591847762670" duration="4641000" />
+      <workItem from="1591895533351" duration="1697000" />
+      <workItem from="1591902628804" duration="10949000" />
+      <workItem from="1592114252832" duration="1050000" />
+      <workItem from="1592364283381" duration="120000" />
+      <workItem from="1592877289974" duration="558000" />
+      <workItem from="1593018483381" duration="1284000" />
+      <workItem from="1593020544792" duration="1262000" />
+      <workItem from="1593444537685" duration="1870000" />
+      <workItem from="1593449216154" duration="4585000" />
+      <workItem from="1593453831395" duration="5365000" />
+      <workItem from="1593640434243" duration="6026000" />
+      <workItem from="1593727376618" duration="9241000" />
+      <workItem from="1593787186618" duration="28097000" />
+      <workItem from="1593871480284" duration="17053000" />
+      <workItem from="1594137098809" duration="34000" />
+      <workItem from="1594687843261" duration="7657000" />
+      <workItem from="1594695645372" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2099" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593453061377">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2099" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593453061377" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1594137130782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594137130782" />
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1592364402321" />
+    <state x="328" y="13" key="SettingsEditor" timestamp="1593888866827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="13" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593888866827" />
+    <state x="1827" y="162" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593453959619" />
+    <state x="452" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1594137106388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1594137106388" />
+    <state x="2002" y="344" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593871540252" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593794638728">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593794638728" />
+  </component>
+</project>
